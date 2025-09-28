@@ -9,7 +9,7 @@ from logging.handlers import RotatingFileHandler
 #leoyagamihere on Tg
 #--------------------------------------------
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8411595022:AAERDy5V-IdCgHjHEUUgW2JXyQvO-lBlCcA")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8411595022:AAH9ngfpuAiNnxFj3JbhzkFxmB18-pYHqps")
 APP_ID = int(os.environ.get("APP_ID", "25451030")) #Your API ID from my.telegram.org
 API_HASH = os.environ.get("API_HASH", "9810f1e7387fc060f76b706844364819") #Your API Hash from my.telegram.org
 #--------------------------------------------
