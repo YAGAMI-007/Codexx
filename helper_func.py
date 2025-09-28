@@ -1,6 +1,5 @@
-#(©)CodeFlix_Bots
-#rohit_1888 on Tg #Dont remove this line
-
+# Don't Remove Credit @yagamimoviez
+# Ask Doubt on telegram @Leoyagamihere
 import base64
 import re
 import asyncio
